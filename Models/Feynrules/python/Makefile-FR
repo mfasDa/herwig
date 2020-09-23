@@ -1,7 +1,7 @@
 # -*- Makefile -*- (for emacs)
 # Models/Feynrules/python/Makefile-FR.  Generated from Makefile-FR.in by configure.
 #
-# Herwig 7.2.0
+# Herwig 7.2.1
 #
 # This Makefile is intended for compiling Herwig plugins
 # You can find example plugins in the Contrib directory
